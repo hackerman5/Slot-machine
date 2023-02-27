@@ -1,1 +1,3 @@
 # Slot-machine
+# Projekte mūsų komanda bandys padaryti internetinį kazino lošimo automatą. Automatą bandysime padaryti kuo panašesnį į populiariausių lošimo puslapių automatus. Jis veiks standartiniu principu ir turės tris ar daugiau simbolių skilčių, vartotojui paspaudus mygtuką lošimo automato skiltys pradės suktis ir sustojus automatui, priklausomai nuo sutampančių simbolių, bus apskaičiuotas laimėjimas ir jis bus parodomas iššokusiame lange.
+# Šiam projektui realizuoti naudosimės programavimo kalbą "Python", taip nusprendėme, nes kiekvienas grupės narys yra daugiausiai dirbęs su ta programavimo kalba ir ji yra lengvai suprantama ir turi daug panaudojimo galimybių, kas mums padės šiame projekte.
